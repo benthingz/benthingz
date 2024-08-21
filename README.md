@@ -1,5 +1,9 @@
 ## Hi there 👋
-Hello World!
+For my personal and educational use
+
+Hoping to learn a and master the basics of coding (any languange)
+
+Aspiring mechanical engineer
 <!--
 **benthingz/benthingz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
