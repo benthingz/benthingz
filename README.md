@@ -1,7 +1,7 @@
 ## Hi there 👋
 For my personal and educational use
 
-Hoping to learn a and master the basics of coding (any languange)
+Hoping to learn and master the basics of coding (any languange)
 
 Aspiring mechanical engineer
 <!--
